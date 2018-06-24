@@ -5,7 +5,7 @@
 In this code-along, we'll show you how to pass data back to views from your controller using an instance variable, and then render it using ERB.
 
 ## Objectives
-
+d
 1. Pass data from a form to a controller using `params`
 2. Manipulate data inside of a route in the controller
 3. Assign data to an instance variable
